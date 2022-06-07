@@ -1,0 +1,18 @@
+monthly_reward:
+  name: "Monthly Reward"
+  description: "free cofee reward for completing a transactions of compined amount more than 100$ per month"
+birthday_reward:
+  name: "Birthday Reward"
+  description: "complementery reward for customers birthday month"
+cash_rebate_reward:
+  name: "Cash Rebate Reward"
+  description: "reward for completing 10 or more transaction that have an amount greater $100"
+movie_reward:
+  name: "Movie Reward"
+  description: "Free Movie Tickets reward for completing trasactions of compined amount $1000 within 60 days of their first transaction"
+airport_reward:
+  name: "Airport Reward"
+  description: "Give 4x Airport Lounge Access Reward when a user becomes a gold tier customer"
+quarterly_reward:
+  name: "Quarterly Reward"
+  description: "100 loyalty points per quarter if trasction exeeds total 2000 that quarter"

@@ -1,0 +1,9 @@
+standard_tier:
+  name: "Standard"
+  priority: 1
+gold_tier:
+  name: "Gold"
+  priority: 2
+platinum_tier:
+  name: "Platinum"
+  priority: 3
